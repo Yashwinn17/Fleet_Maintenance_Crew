@@ -54,6 +54,9 @@ Thumbs.db
 # Misc
 *.local
 
+# Temporary litellm install workaround
+lm/
+
 # Ignore egg and wheel builds
 *.egg
 *.whl
